@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter from a commander in the fleet with His Highnesse the Prince of Wales. Containing a true and exact relation of the proceedings of His Highnesse and his fleet, with the fleet commanded by the Earle of Warwicke. September the 7. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80454</idno>
+            <idno type="STC">Wing C6114</idno>
+            <idno type="STC">Thomason E464_23</idno>
+            <idno type="STC">ESTC R205148</idno>
+            <idno type="EEBO-CITATION">99864586</idno>
+            <idno type="PROQUEST">99864586</idno>
+            <idno type="VID">116817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116817)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter from a commander in the fleet with His Highnesse the Prince of Wales. Containing a true and exact relation of the proceedings of His Highnesse and his fleet, with the fleet commanded by the Earle of Warwicke. September the 7. 1648.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Sept 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, d. 1659 --  Early works to 1800.</term>
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116817:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A LETTER FROM A Commander in the FLEET with His Highneſſe the PRINCE Of <hi>WALES.</hi>
+            </p>
+            <p>CONTAINING A true and exact Relation of the pro<g ref="char:EOLhyphen"/>ceedings of His Highneſſe and His <hi>Fleet,</hi> with the <hi>Fleet</hi> Comman<g ref="char:EOLhyphen"/>ded by the Earl of <hi>Warwicke.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>September</hi> the 7. 1648.</p>
+            <p>Printed in the Yeare, 1648. <add>Sept 20<hi rend="sup">th</hi>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116817:2"/>
+            <head>
+               <hi>THE COPIE</hi> OF A LETTER <hi>FROM</hi> A Commander in the <hi>FLEET</hi> with HIS HIGHNESSE the <hi>Prince of WALES. September</hi> the 7. 1648.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>E pleaſed to receive this narrative of the lateſt Occurrents from the <hi>Fleet</hi> with His Highneſſe the <hi>Prince of</hi> WALES: His Highneſſe landed at <hi>Helford-ſluce</hi> the laſt Saturday, and on Munday night was received according to His quality at the <hi>Hague:</hi> The cauſe of His return ſo ſoon from Sea, was a generall want of Victuals of all ſorts in the <hi>Fleet.</hi> The Earle of <hi>Warwicke</hi> avoided two whole daies to <hi>fight</hi> with His Highneſſe; which had he had either wil or courage to do,
+<pb n="2" facs="tcp:116817:3"/> he might have done it at pleaſure, the <hi>Prince</hi> having no means (the other being continually in the wind of Him) to avoid it; and the laſt of thoſe two daies the <hi>Prince</hi> got ſo neer him, that both <hi>Fleets</hi> had been engaged, had not God in that inſtant of time, ſent ſo ſudden and vio<g ref="char:EOLhyphen"/>lent a ſtorme, as the like for the manner hath not been heard of, ſo that both <hi>Fleets</hi> were forced to take in their <hi>ſailes,</hi> and come unto an <hi>Anchor:</hi> The Earle of <hi>War<g ref="char:EOLhyphen"/>wicke</hi> went afterwarwards into the entrance of the River of <hi>Chatham:</hi> His Highneſſe the next day advanced, but finding the Earle of <hi>Warwicke</hi> had no mind to engage without a very great advantage, which was offered him among the <hi>Sands:</hi> the <hi>Prince</hi> next morning being Fri<g ref="char:EOLhyphen"/>day, ſet ſaile, and with<g ref="char:punc">▪</g> as little ſayle as poſſible he could, ſtood unto the Eaſtward, hoping to have drawne the Earle of <hi>Warwicke</hi> from the <hi>Sands</hi> unto the open Sea: <hi>Warwicke</hi> being ſwolne to above <hi>thirty Sayle,</hi> by reaſon of all outward-bound Ships came in to him, ſet ſayle likewiſe; but he firſt ſaw the <hi>Prince</hi> ſome three Leagues at leaſt luward of him, the wind then at Weſt. South<g ref="char:EOLhyphen"/>weſt, and South-weſt, he following with the ſame ſayle the Prince ſtill made, and when His Highneſſe leſſened ſayle, he leſſened, and when His Highneſſe lay by the lee, he did the like, keeping alwaies the ſame diſtance untill betwixt three or foure a Clock afternoon, and then fell from Him, and came unto an Anchor, 3 or 4 Leagues in the wind of the PRINCE's <hi>Fleet.</hi> Certainly <hi>Warwick</hi> had all the reaſon in the world to have engaged in Fight, conſidering all advantages were on his ſide, both of place and wind, and the prize for which he fought; whereas the <hi>Prince</hi> (all things well conſidered) had no reaſon at all, but His high courage drew Him thereunto, for when the Lords, the Officers, and whole company of the
+<pb n="3" facs="tcp:116817:3"/> Ship, had humbly on their knees deſired Him to betake Himſelf unto a place of ſome ſecurity for His Perſon, and enforced the ſame by many ſtrong reaſons and per<g ref="char:EOLhyphen"/>ſwaſions: He onely replied, <hi>What doth this concerne mine Honour?</hi> and taking a ſcrued Gun in His hand, <hi>I am confident with this Piece this day to ſhoot</hi> Warwicke <hi>through the head, if he dares in Perſon appeare in the Fight:</hi> and ſo by His example, put a moſt invincible courage into the hearts of all His People. The <hi>Prince</hi> had a fair opportunity to make Himſelf maſter of <hi>Portſ<g ref="char:EOLhyphen"/>mouth Fleet,</hi> and that without blows; for His Highneſſe Ship made them before night, and knew them to be the ſame, and the tyde of ebbe being come, they could not turne it up, the wind Weſt-ſouth-weſt, but were forced to come to an Anchor, His Highneſſe paſſed through them, onely giving notice to a catch to awaken one or two of them<g ref="char:punc">▪</g> and command them to follow the Lord <hi>Warwicke,</hi> the <hi>Fleet</hi> being put to luward of them, and a ſtrong tyde of ebbe bent, it was not poſſible again to re<g ref="char:EOLhyphen"/>cover them, but the reer Admirall came in up the ſterne moſt Ship: finding them (notwithſtanding their for<g ref="char:EOLhyphen"/>mer ſummons) aſleep, awakened them with two or three ſhot. The <hi>Prince</hi> at His comming from the <hi>Downes,</hi> which was Saturday the 26 of <hi>Auguſt,</hi> had another deſigne then comming up the River, out of a hot deſire the Sea-men had to fight with <hi>Warwicke,</hi> and I am con<g ref="char:EOLhyphen"/>fident, they would have ſpent themſelves unto the laſt man againſt him, ſuch was their violent earneſtneſſe to fight with him.</p>
+            <p>The buſineſſe of force in Shipping, was I ſuppoſe e<g ref="char:EOLhyphen"/>quall on both ſides, there being not four peeces of Ord<g ref="char:EOLhyphen"/>nance difference, the <hi>Prince</hi> had 17 Sayle, 11 onely bea<g ref="char:EOLhyphen"/>ring Ordnance, the reſt were Hoyes, Carches, and prize-Veſſels
+<pb n="4" facs="tcp:116817:4"/> unarmed. <hi>Warwicke</hi> at firſt but 13. 11 whereof were wel-fitted, the other two Catches, but in courage and brave reſolution of people His Highneſſe far excee<g ref="char:EOLhyphen"/>ded him.</p>
+            <p>Surely never did an higher courage, and more gallan<g ref="char:EOLhyphen"/>try of reſolution appeare in man then, did in His Highneſſe, whoſe great affability with His People, His readineſſe and clearneſſe of judgment, and His excee<g ref="char:EOLhyphen"/>ding confidence in all appearing difficulties, prove Him of a moſt Martiall conſtitution, and give us viſible, and infallible aſſurances, that with Gods bleſſing, He will prove with a little experience one of the moſt able Com<g ref="char:EOLhyphen"/>manders both by Sea and Land, now in Chriſtendome: and in Military proweſſe will equall the moſt warlike Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces that ever this Nation bred.</p>
+            <p>The next opportunity you ſhall hear more from</p>
+            <closer>
+               <signed>Your Servant.</signed>
+               <dateline>Roterdam, <date>Septemb. 7. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116817:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
